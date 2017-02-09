@@ -1,2 +1,2 @@
 a = 1
-#merge master and dev branch
+#--no-ff merge master and dev branch
